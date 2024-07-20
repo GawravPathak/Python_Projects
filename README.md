@@ -9,3 +9,6 @@ and then creating the .csv file.
 This project automatically move the files into their respective folders.
 If you want to try : you can just change the Source path and the destination path
 And make sure you will specify the file type you have and then create the corresponding directory for it.
+
+# Python_Projects : Visualization in Pandas
+In this, I have highlighted major charts, that can be useful for visualization using pandas library.
