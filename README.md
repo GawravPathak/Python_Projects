@@ -1,8 +1,8 @@
 # Python_Projects : Web Scrapping
 In this Project I have used this website
 https://results.eci.gov.in/PcResultGenJune2024/index.htm
-to create the table in python using BeautifulSoup Library from bs4
-and then creating the .csv file.
+Created the table in python using BeautifulSoup Library from bs4
+and then creating the 2024_General Elections.csv file.
 
 
 # Python_Projects : Automatic File Sorting 
